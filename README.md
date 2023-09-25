@@ -33,6 +33,7 @@ Communicating the work and analysis in the form of a single PowerPoint slide, us
 **Step 7: Python module**
 
 Preparing a Python module that contains code to train a model and output the performance metrics when the file is run, making sure that the module is well-organized and easy to use, and documenting the module and providing examples of how to use it.
-Conclusion:
+
+### **Conclusion:**
 
 By following these steps, I have be able to develop a machine learning model that can help Gala Groceries to more intelligently procure products from their suppliers and reduce waste.
